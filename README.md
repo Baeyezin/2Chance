@@ -8,7 +8,8 @@
  로그인/회원가입/게시판/mypage 등 각자 원하는 부분 연습하기 및 <b>부트스트랩<b> 사용 연습
  
  <hr>
- 
- [로그인/로그아웃 동영상]
+ <br>
+ My part <br>
+ [로그인/로그아웃/scroll to top 동영상]<br>
  https://drive.google.com/file/d/1lVdgTzM6tKGd0a_GYzDwntYDVnAaGjgj/view?usp=sharing
  
