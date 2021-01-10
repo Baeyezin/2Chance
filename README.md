@@ -11,6 +11,7 @@
  
  <hr>
  ### 사용기술
+ 
 + Spring
 + java
 + myBatis
@@ -26,7 +27,8 @@
 + Github
  <hr>
  <br>
- ## My part <br>
+
+## My part <br>
  [로그인/로그아웃/scroll to top 동영상]<br>
  https://drive.google.com/file/d/1lVdgTzM6tKGd0a_GYzDwntYDVnAaGjgj/view?usp=sharing
  
